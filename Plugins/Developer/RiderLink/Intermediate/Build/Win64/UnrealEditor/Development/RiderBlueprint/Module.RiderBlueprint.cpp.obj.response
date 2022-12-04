@@ -1,6 +1,6 @@
-C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp
+C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp
 /I .
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Private
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -14,25 +14,25 @@ C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Inte
 /I Runtime\ApplicationCore\Public
 /I Runtime\RHI\Public
 /I Runtime\Json\Public
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Slate\UHT
 /I Runtime\Slate\Public
 /I Runtime\ImageWrapper\Public
@@ -289,7 +289,7 @@ C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Inte
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
-/I C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public
+/I C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -299,9 +299,9 @@ C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Inte
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Definitions.h"
-/Fo"C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
-/sourceDependencies C:\Users\ZorKu\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.dep.json
+/FI"C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Definitions.h"
+/Fo"C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+/sourceDependencies C:\Users\ZorKum\Documents\GitHub\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
