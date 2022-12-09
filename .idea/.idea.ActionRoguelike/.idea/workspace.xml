@@ -19,15 +19,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "CppCodeCompletionOptionsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CppCodeCompletionOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.ActionRoguelike">
     <configuration name="ActionRoguelike" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -154,6 +154,9 @@
       <workItem from="1669582345016" duration="2015000" />
       <workItem from="1669830407159" duration="3497000" />
       <workItem from="1670067251694" duration="3102000" />
+      <workItem from="1670156642506" duration="5684000" />
+      <workItem from="1670173867224" duration="4578000" />
+      <workItem from="1670349826704" duration="504000" />
     </task>
     <servers />
   </component>
